@@ -7,7 +7,7 @@
   - Analyse a Data Frame using Python(Numpy, Seaborn, SKlearn, pyplot)
   
 - <b>Blockchain</b>
-  - Test of the convergence of our version of the Iota Blockbain 
+  - Test of the convergence of our version of the Iota Blockbain (great voters) 
 
 
 <h2> 🤳 Connect with me:</h2>
