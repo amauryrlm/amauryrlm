@@ -5,6 +5,9 @@
 
 - <b>Data Science</b>
   - Analyse a Data Frame using Python(Numpy, Seaborn, SKlearn, pyplot)
+  
+- <b>Blockchain</b>
+  - Test of the convergence of the Iota Blockbain 
 
 
 <h2> 🤳 Connect with me:</h2>
