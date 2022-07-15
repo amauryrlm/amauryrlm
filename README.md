@@ -8,6 +8,9 @@
   
 - <b>Blockchain</b>
   - Test of the convergence of our version of the Iota Blockbain (great voters) 
+  
+- <b>Robot</b>
+  -Turn a RobotCar into an autonomous vehicle by programming in C to allow it to move on a multi-lane road, bypassing fixed and mobile obstacles
 
 
 <h2> 🤳 Connect with me:</h2>
