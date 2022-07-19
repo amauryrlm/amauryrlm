@@ -12,6 +12,9 @@
   
 - <b>Robot</b>
   - [Turn a RobotCar into an autonomous vehicle by programming in C to allow it to move on a multi-lane road, bypassing fixed and mobile obstacles](https://github.com/amauryrlm/RobotCar)
+  
+ - <b>Modelisation</b>
+  - [Kinetic and dynamic modelisation of a car trajectory in Matlab.Solving motion differential equations, Autonomous driving tool and creation of a grafical interface](https://github.com/Niiivek/Projet_voiture)
 
 
 <h2> 🤳 Connect with me:</h2>
